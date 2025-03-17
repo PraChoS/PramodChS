@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PramodChS
-- 👀 I’m interested in anything that includes word 'Code'
+- 👀 I’m interested in anything that includes or synonymous word 'Code'
 - 🌱 I’m currently learning Python, Data Science, Data analytics, AI/ML
 - 💞️ I’m looking to collaborate on .Net, React, c#
 - 📫 How to reach me email me at pramodcs.us@gmail.com
