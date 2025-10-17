@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PramodChS
 - 👀 I’m interested in anything that includes or synonymous word 'Code'
-- 🌱 I’m currently learning Python, Data Science, Data analytics, AI/ML
-- 💞️ I’m looking to collaborate on .Net, React, c#
+- 🌱 I’m to collaborate on Python, Data Science, Data analytics, AI/ML
+- 💞️ I’m learning golang, .Net, React, Rust etc (basically my side hustle to catch up on app development in free time. Maybe i will build a successful app for myself)
 - 📫 How to reach me email me at pramodcs.us@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coffe is water, Anime is dream, Gaming is experience and coding is life
